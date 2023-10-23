@@ -1,0 +1,1 @@
+overlay-xy(rectangle(25, 200, "solid", "dark-blue"), -100, 0, overlay-xy(rectangle(275, 25, "solid", "dark-blue"), 0, -87.5, overlay-xy(rectangle(275, 50, "solid", "white"), 0, -75, overlay-xy(rectangle(50, 200, "solid", "white"), -87.5, 0,  rectangle(275, 200, "solid", "red")))))
